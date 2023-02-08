@@ -9,7 +9,7 @@
 
 <h4 align="left">And I'm a full-stack web developer from Egypt</h4>
 
-<p align="left">🔭 I’m currently working on <a href="https://github.com/KareemBasher/eshfeeny-api">Eshfeeny</a> <br>📚 I'm currently learning Next.JS and MongoDB 🍃<br>😎 I would love to work with the MERN stack (preferably in TS) 💙🔷<br>🎲 Fun fact: I like cats 🐈<br>📃 For more information about me <a href="https://github.com/KareemBasher/eshfeeny-api](https://docs.google.com/document/d/1A39nI6WA3tBmHzyM7wSKrdJ_VmgPa3xbdCeczSneRSI/edit?usp=sharing)">Resume</a></p>
+<p align="left">🔭 I’m currently working on <a href="https://github.com/KareemBasher/eshfeeny-api">Eshfeeny</a> <br>📚 I'm currently learning Next.JS and MongoDB 🍃<br>😎 I would love to work with the MERN stack (preferably in TS) 💙🔷<br>🎲 Fun fact: I like cats 🐈<br>📃 For more information about me <a href="https://docs.google.com/document/d/1A39nI6WA3tBmHzyM7wSKrdJ_VmgPa3xbdCeczSneRSI/edit?usp=sharing">Resume</a></p>
 
 <br/>
 <br/>
