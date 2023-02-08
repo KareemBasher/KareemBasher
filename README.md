@@ -1,30 +1,25 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<h2 align="left" style="font-size: 2rem;">
+  Hi 👋! My name is Karim
+  <a>
+    <img align="right" src="https://kounter.tk/badge/kareembasher.kounter?label=&color=333&style=for-the-badge&cntSuffix=%20Views&silent=false" />
+  </a>
+</h2>
 
-### <div align="center">I'm Karim, a full-stack web developer 👨‍💻🚀</div>  
-  
+<img align="right" width="38%" src="https://user-images.githubusercontent.com/55809409/217615151-9d8fa0e2-f9de-4d1c-b051-1c977c42839b.png"/>
 
-- 🔭 I’m currently working on [Eshfeeny](https://github.com/KareemBasher/eshfeeny-api)  
-  
+<h4 align="left">And I'm a full-stack web developer from Egypt</h4>
 
-- 🌱 I’m currently learning MongoDB 🍃 and Next.JS 🚀  
-  
+<p align="left">🔭 I’m currently working on <a href="https://github.com/KareemBasher/eshfeeny-api">Eshfeeny</a> <br>📚 I'm currently learning Next.JS and MongoDB 🍃<br>😎 I would love to work with the MERN stack (preferably in TS) 💙🔷<br>🎲 Fun fact: I like cats 🐈<br>📃 For more information about me <a href="https://github.com/KareemBasher/eshfeeny-api](https://docs.google.com/document/d/1A39nI6WA3tBmHzyM7wSKrdJ_VmgPa3xbdCeczSneRSI/edit?usp=sharing)">Resume</a></p>
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I like cats  
-  
-
-<br/>  
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -33,13 +28,11 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -67,42 +60,7 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/KareemBasher" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/karimhusseinbashir" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kareembasher&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemBasher&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=KareemBasher&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kareembasher&" alt="kareembasher" /></p>
+<div>
+  <img align="left" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="60%" />
+  <img align="right" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="40%" />
+<div/>
