@@ -1,7 +1,7 @@
 <h2 align="left" style="font-size: 2rem;">
   Hi 👋! My name is Karim
   <a>
-    <img align="right" src="https://kounter.tk/badge/kareembasher.kounter?label=&color=333&style=for-the-badge&cntSuffix=%20Views&silent=false" />
+    <img align="right" src="https://kounter.tk/badge/kareembasher.kounter?label=&color=333&style=for-the-badge&cntSuffix=%20Profile%20Views&silent=false" />
   </a>
 </h2>
 
@@ -52,8 +52,7 @@
 
 ### DevOps  
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
