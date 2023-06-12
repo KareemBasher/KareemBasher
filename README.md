@@ -1,8 +1,5 @@
 <h2 align="left" style="font-size: 2rem;">
   Hi 👋! My name is Karim
-  <a>
-    <img align="right" src="https://kounter.tk/badge/kareembasher.kounter?label=&color=333&style=for-the-badge&cntSuffix=%20Profile%20Views&silent=false" />
-  </a>
 </h2>
 
 <img align="right" width="38%" src="https://user-images.githubusercontent.com/55809409/217615151-9d8fa0e2-f9de-4d1c-b051-1c977c42839b.png"/>
